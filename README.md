@@ -6,10 +6,12 @@ DSA solutions in Java
 ## Array
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ankit-dev005/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Ankit-dev005/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ankit-dev005/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Ankit-dev005/Leetcode-solutions/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -27,4 +29,8 @@ DSA solutions in Java
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ankit-dev005/Leetcode-solutions/tree/master/0268-missing-number) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ankit-dev005/Leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
